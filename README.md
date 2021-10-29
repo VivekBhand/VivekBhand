@@ -10,7 +10,7 @@
 - 💬 Ask me about ... -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vivek-bhand-5254bb1b2/)
 <!-- - ⚡ Fun fact: ... -->
-<!-- --> -->
+<!-- -->
 
 
 ## **⚡️ &nbsp;More about my coding life**
