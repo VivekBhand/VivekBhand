@@ -40,10 +40,9 @@
 
 
 <hr>
-
-## **⚙️ &nbsp;GitHub Analytics**
-
-<p align = "center">
+<details>
+  <summary><h3>⚙️ &nbsp;GitHub Analytics</h3></summary>
+           <p align = "center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=VivekBhand&show_icons=true&theme=radical&locale=en&hide_border=true" alt="Arka2001" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekBhand&theme=radical"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBhand&theme=gotham&hide_border=true&layout=compact" />
@@ -53,6 +52,10 @@
 <br/>
 
 [![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=VivekBhand&theme=rogue)](https://github.com/VivekBhand/github-readme-activity-graph)
+</details>
+
+
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VivekBhand.VivekBhand)
