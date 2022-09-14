@@ -3,8 +3,8 @@
 
 <a href="mailto: bhandvv19.comp@coep.ac.in">Email</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning : Python, C, HTML, SQL
+- 🔭 I’m currently working on React and MEAN Stack
+- 🌱 I’m currently learning : NLP, Compiler Construction
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
