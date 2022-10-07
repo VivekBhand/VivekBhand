@@ -1,0 +1,11 @@
+.themeBlack {
+    --background-primary : #FFF7E9;
+    --background-secondary: #FF731D;
+    --text-primary : #1746A2;
+    --text-secondary : #5F9DF7;
+}
+
+h1 {
+    color: var(--text-primary);
+    background-color: var(--background-primary);
+}
