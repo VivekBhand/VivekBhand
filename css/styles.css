@@ -1,11 +1,64 @@
+/* https://www.colorhunt.co/palette/3ec1d3f6f7d7ff9a00ff165d */
 .themeBlack {
-    --background-primary : #FFF7E9;
-    --background-secondary: #FF731D;
-    --text-primary : #1746A2;
-    --text-secondary : #5F9DF7;
+    --background-primary : #F6F7D7;
+    --background-secondary: #3EC1D3;
+    --background-tertiary: #FF731D;
+    --text-primary : #FF9A00;
+    --text-secondary : #FF165D;
+}
+
+body {
+    /* background-color: var(--background-primary); */
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 h1 {
-    color: var(--text-primary);
+    color: var(--text-secondary);
+    /* margin: 0; */
+    /* font-family: 'Sacramento', cursive; */
+    font-family: 'EB Garamond', serif;
+}  
+
+h2 {
+    font-family: 'Sacramento', cursive;
+}
+
+
+.top-container {
+    background-color: var(--background-secondary);
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
     background-color: var(--background-primary);
+    width: 200px;
+    height: 200px;
+    /* padding: 20px;
+    border: solid; */
+}
+
+.bottom-container {
+    background-color: var(--background-tertiary);
+    width: 200px;
+    height: 200px;
+}
+
+.Pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
