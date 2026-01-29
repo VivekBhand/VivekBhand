@@ -1,6 +1,5 @@
 ### Hi there 👋
-#### I'm a Computer engineering student at College of Engineering, Pune (COEP)
-
+#### I'm a Full Stack Developer proficient in .NetCore 8.0/10.0, React, Angular and TypeScript.
 <a href="mailto: bhandvv19.comp@coep.ac.in">Email</a>
 
 - 🔭 I’m currently working on React and MEAN Stack
