@@ -32,7 +32,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 
-## **⚡️ &nbsp;More about my coding life**
+<!-- ## **⚡️ &nbsp;More about my coding life** -->
 <!--   
 
   
@@ -42,20 +42,20 @@
 
 
 
-<hr>
+<!-- <hr>
 <details>
   <summary><h3>⚙️ &nbsp;GitHub Analytics</h3></summary>
            <p align = "center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=VivekBhand&show_icons=true&theme=radical&locale=en&hide_border=true" alt="Arka2001" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekBhand&theme=radical"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBhand&theme=gotham&hide_border=true&layout=compact" />
-<!--   <img align="top" src="https://github-profile-trophy.vercel.app/?username=VivekBhand&theme=onedark"> -->
+
 </p>
 
 <br/>
 
 [![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=VivekBhand&theme=rogue)](https://github.com/VivekBhand/github-readme-activity-graph)
-</details>
+</details> -->
 
 
 
