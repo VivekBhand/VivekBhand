@@ -2,7 +2,7 @@
 #### I'm a Full Stack Developer proficient in .NetCore 8.0/10.0, React, Angular and TypeScript.
 <a href="mailto: bhandvv19.comp@coep.ac.in">Email</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VivekBhand)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VivekBhand&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on React and MEAN Stack
 - 🌱 I’m currently learning : NLP, Compiler Construction
